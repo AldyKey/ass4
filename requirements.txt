@@ -1,0 +1,7 @@
+psycopg2==2.9.1
+flask==2.0.1
+jwt==2.2.0
+requests==2.26.0
+selenium==3.141.0
+BeautifulSoup==4.10.0
+ChromeDriver==94.0.4606.41
